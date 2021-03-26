@@ -1,7 +1,14 @@
 public class Main {
+
     public double price;
     public int y;
-
+    public int id;
+    public int x;
+  
+    public void foo(int abc){
+        // implementation
+    }
+  
     public void foo() {
         // a better implementation
     }
