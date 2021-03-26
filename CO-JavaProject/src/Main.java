@@ -4,13 +4,14 @@ public class Main {
     public int y;
     public int id;
     public int x;
+    public double percentage;
   
     public void foo(int abc){
         // implementation
     }
   
     public void foo() {
-        // a better implementation
+        //another comment
     }
 
     public void method2() {
