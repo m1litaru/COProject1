@@ -4,6 +4,7 @@ public class Main {
     public int y;
     public int id;
     public int x;
+    public double percentage;
     public boolean isMandatory;
   
     public void foo(int abc){
@@ -11,7 +12,7 @@ public class Main {
     }
   
     public void foo() {
-        // a better implementation
+        //another comment
     }
 
     public void method2() {
