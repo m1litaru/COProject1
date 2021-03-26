@@ -4,6 +4,7 @@ public class Main {
     public int y;
     public int id;
     public int x;
+    public boolean isMandatory;
   
     public void foo(int abc){
         // implementation
@@ -15,6 +16,10 @@ public class Main {
 
     public void method2() {
         // a implementation
+    }
+
+    public void method(int[] args) {
+        // some code (hope it works!)
     }
 
 }
