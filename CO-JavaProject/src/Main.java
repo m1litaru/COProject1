@@ -1,5 +1,13 @@
 public class Main {
-    public String name;
-    public int x;
+    public double price;
+    public int y;
+
+    public void foo() {
+        // a better implementation
+    }
+
+    public void method2() {
+        // a implementation
+    }
 
 }
