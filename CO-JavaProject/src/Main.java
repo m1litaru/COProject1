@@ -1,5 +1,8 @@
 public class Main {
-    public String name;
+    public int id;
     public int x;
 
+    public void foo(int abc){
+        // implementation
+    }
 }
