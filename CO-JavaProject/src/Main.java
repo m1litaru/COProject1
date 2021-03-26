@@ -5,6 +5,7 @@ public class Main {
     public int id;
     public int x;
     public double percentage;
+    public boolean isMandatory;
   
     public void foo(int abc){
         // implementation
@@ -16,6 +17,10 @@ public class Main {
 
     public void method2() {
         // a implementation
+    }
+
+    public void method(int[] args) {
+        // some code (hope it works!)
     }
 
 }
