@@ -17,4 +17,8 @@ public class Main {
         // a implementation
     }
 
+    public void method(int[] args) {
+        // some code (hope it works!)
+    }
+
 }
