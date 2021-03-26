@@ -4,6 +4,7 @@ public class Main {
     public int y;
     public int id;
     public int x;
+    public boolean isMandatory;
   
     public void foo(int abc){
         // implementation
