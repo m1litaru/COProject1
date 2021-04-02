@@ -15,14 +15,21 @@ public class Main {
         //another comment
     }
 
+    public void FridayMethod() {
+        // comment
+        // implementation
+    }
+
     public void method2() {
         // a implementation
     }
 
     public void method(int[] args) {
         // some code (hope it works!)
-        int id = 100;
+        int id = 100, y = 0;
         // use id inside main
+        // some implementation
+       
     }
 
 }
