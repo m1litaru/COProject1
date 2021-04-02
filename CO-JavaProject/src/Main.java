@@ -21,6 +21,8 @@ public class Main {
 
     public void method(int[] args) {
         // some code (hope it works!)
+        int id = 100;
+        // use id inside main
     }
 
 }
